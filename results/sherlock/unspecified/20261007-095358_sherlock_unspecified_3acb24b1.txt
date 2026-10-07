@@ -1,0 +1,14 @@
+[*] Checking username sahilbassaiye on:
+
+[+] AniWorld: https://aniworld.to/user/profil/sahilbassaiye
+[+] Docker Hub: https://hub.docker.com/u/sahilbassaiye/
+[+] GitHub: https://www.github.com/sahilbassaiye
+[+] Trakt: https://www.trakt.tv/users/sahilbassaiye
+[+] mastodon.cloud: https://mastodon.cloud/@sahilbassaiye
+[+] Pinterest: https://www.pinterest.com/sahilbassaiye/
+[+] BabyRu: https://www.baby.ru/u/sahilbassaiye
+
+[*] Search completed with 7 results
+
+Go deeper than a username. Explore public profiles and export your findings.
+Try OSINTSearch: ]8;;https://osintsearch.org/go/sherlock\https://osintsearch.org]8;;\

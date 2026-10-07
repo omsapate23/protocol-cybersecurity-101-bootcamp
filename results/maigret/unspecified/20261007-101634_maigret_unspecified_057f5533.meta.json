@@ -1,0 +1,18 @@
+{
+  "bytes": 96620,
+  "case": null,
+  "command": [
+    "/home/codespace/.otinstaller/tools/maigret/venv/bin/maigret",
+    "urde.atharva"
+  ],
+  "duration_seconds": 47.304859,
+  "ended_at": "2026-10-07T10:17:21.678402+00:00",
+  "exit_code": 0,
+  "output_path": "maigret/unspecified/20261007-101634_maigret_unspecified_057f5533.txt",
+  "sha256": "15d4c04c0802bf8c7f0119eb81cb801ee8114c07f5a2414a7e1ab7c4da978a8d",
+  "started_at": "2026-10-07T10:16:34.373543+00:00",
+  "status": "complete",
+  "target": "unspecified",
+  "tool": "maigret",
+  "tool_version": "0.6.6"
+}

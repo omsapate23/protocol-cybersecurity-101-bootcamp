@@ -1,0 +1,12 @@
+  0%|                                | 0/8 [0.00s] 50%|████████████████                | 4/8 [0.12s]100%|████████████████████████████████| 8/8 [0.61s]                                                  ----------------------------------------
+                 github
+----------------------------------------
+GitLab
+Twitter
+GitHub: QueryError - Could not retrieve token. You might be sending too many requests. Use a proxy or wait before trying again.
+Instagram: QueryError - Unexpected content type text/plain. You might be sending too many requests. Use a proxy or wait before trying again.
+Reddit: QueryError - Unexpected content type text/html. You might be sending too many requests. Use a proxy or wait before trying again.
+Tumblr: ServerDisconnectedError - Server disconnected
+
+Available, Taken/Reserved, Invalid, Error
+Completed 8 queries in 0.61s

@@ -1,0 +1,18 @@
+{
+  "bytes": 3710,
+  "case": null,
+  "command": [
+    "/home/codespace/.otinstaller/tools/holehe/venv/bin/holehe",
+    "koulsushantff@gmail.com"
+  ],
+  "duration_seconds": 10.359347,
+  "ended_at": "2026-10-07T10:05:35.967270+00:00",
+  "exit_code": 0,
+  "output_path": "holehe/unspecified/20261007-100525_holehe_unspecified_7a4a750c.txt",
+  "sha256": "753eeb693bde50471108ce4dc2ed0c6cdfdacce695849006908e4bdec266bcaa",
+  "started_at": "2026-10-07T10:05:25.607923+00:00",
+  "status": "complete",
+  "target": "unspecified",
+  "tool": "holehe",
+  "tool_version": "1.61"
+}

@@ -1,0 +1,18 @@
+{
+  "bytes": 954,
+  "case": null,
+  "command": [
+    "/home/codespace/.otinstaller/tools/socialscan/venv/bin/socialscan",
+    "github"
+  ],
+  "duration_seconds": 0.945558,
+  "ended_at": "2026-10-07T10:13:15.759592+00:00",
+  "exit_code": 0,
+  "output_path": "socialscan/github/20261007-101314_socialscan_github_27a8a5ab.txt",
+  "sha256": "52be2130524cdcf2e4399889d0a01c007deaf4e91ec60083cf3909cbc933f8d3",
+  "started_at": "2026-10-07T10:13:14.814034+00:00",
+  "status": "complete",
+  "target": "github",
+  "tool": "socialscan",
+  "tool_version": "2.0.1"
+}

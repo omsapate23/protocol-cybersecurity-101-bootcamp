@@ -1,0 +1,18 @@
+{
+  "bytes": 626,
+  "case": null,
+  "command": [
+    "/home/codespace/.otinstaller/tools/sherlock/venv/bin/sherlock",
+    "sahilbassaiye"
+  ],
+  "duration_seconds": 83.904625,
+  "ended_at": "2026-10-07T09:55:22.524562+00:00",
+  "exit_code": 0,
+  "output_path": "sherlock/unspecified/20261007-095358_sherlock_unspecified_3acb24b1.txt",
+  "sha256": "fbb4d5b200ed4879e742c0a2424a27adba19d950d81bce285e0ff838fd10536c",
+  "started_at": "2026-10-07T09:53:58.619937+00:00",
+  "status": "complete",
+  "target": "unspecified",
+  "tool": "sherlock",
+  "tool_version": "0.16.2"
+}

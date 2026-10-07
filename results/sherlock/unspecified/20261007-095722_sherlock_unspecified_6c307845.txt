@@ -1,0 +1,14 @@
+[*] Checking username urde.atharva on:
+
+[+] AniWorld: https://aniworld.to/user/profil/urde.atharva
+[+] BoardGameGeek: https://boardgamegeek.com/user/urde.atharva
+[+] Vero: https://vero.co/urde.atharva
+[+] mastodon.cloud: https://mastodon.cloud/@urde.atharva
+[+] omg.lol: https://urde.atharva.omg.lol
+[+] threads: https://www.threads.net/@urde.atharva
+[+] BabyRu: https://www.baby.ru/u/urde.atharva
+
+[*] Search completed with 7 results
+
+Go deeper than a username. Explore public profiles and export your findings.
+Try OSINTSearch: ]8;;https://osintsearch.org/go/sherlock\https://osintsearch.org]8;;\
