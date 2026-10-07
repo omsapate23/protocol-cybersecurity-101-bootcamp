@@ -1,0 +1,18 @@
+LEVEL 4: THE SILENT POSTER (8-10 minutes, easy)
+
+The briefing is recovered, but one attachment is still unexplained.
+An organiser sent poster.png and said: "The picture is only part of the file."
+Looking at it normally shows a simple event poster. Find the concealed message
+inside the file and recover one PROTOCOL{...} flag.
+
+1. Identify the file's real format.
+2. Look for readable text inside it.
+3. Use a filter if the output is noisy.
+
+Useful tools: file, strings, grep
+Need help? Read HINTS.txt one hint at a time.
+Check your flag from this directory: python3 ../check.py
+Select level 4. This level can also be played on its own.
+
+Use the original poster.png file from the ZIP or repository.
+A screenshot or re-saved image may remove the concealed message.

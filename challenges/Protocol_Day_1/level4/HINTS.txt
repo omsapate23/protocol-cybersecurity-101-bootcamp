@@ -1,0 +1,14 @@
+HINT 1
+An image file can contain information besides the visible pixels.
+
+HINT 2
+file identifies the format. strings prints readable text found in file bytes.
+You do not need a password, a network connection or a special extraction script.
+
+HINT 3
+Try: strings -a poster.png
+Then filter that output with grep for the usual flag prefix.
+
+REFLECTION (after solving)
+Did you decrypt anything? Where could non-visible text be stored in an image?
+Does failing to find text with strings prove an image contains no hidden data?
