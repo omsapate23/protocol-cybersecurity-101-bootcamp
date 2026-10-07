@@ -1,0 +1,6 @@
+LEVEL 1: THE INVISIBLE NOTE (5-7 minutes)
+An organiser saved a briefing here, but an ordinary directory listing misses it.
+Find the hidden note, record its flag and follow its instructions.
+Useful commands: pwd, ls, cd, cat
+Hint 1: Linux filenames beginning with a dot are hidden from plain ls.
+Hint 2: Try ls -la, then cat followed by the exact filename.

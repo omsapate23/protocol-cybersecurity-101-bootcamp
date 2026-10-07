@@ -1,0 +1,1 @@
+This is the public welcome note. The private briefing is another file in this folder.

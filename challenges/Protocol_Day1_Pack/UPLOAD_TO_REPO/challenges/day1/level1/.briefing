@@ -1,0 +1,4 @@
+Recovered briefing: PROTOCOL{hidden_in_plain_sight}
+Next: cd ../level2
+Then: cat MISSION.txt
+The important log entry contains the exact marker BRIEFING_READY.

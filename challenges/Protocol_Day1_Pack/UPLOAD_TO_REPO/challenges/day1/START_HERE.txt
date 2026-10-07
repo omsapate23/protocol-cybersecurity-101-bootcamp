@@ -1,0 +1,9 @@
+PROTOCOL: THE MISSING BRIEFING
+Three beginner Linux challenges. Estimated time: 20-30 minutes.
+Use only the supplied files. No internet, scanning, sudo or installations needed.
+Open a terminal in this folder. Begin:
+  cd level1
+  cat MISSION.txt
+Find one PROTOCOL{...} flag in each level. Each discovery tells you where to go next.
+Check a flag from this folder with: python3 check.py
+These are practice levels, not locked accounts. Follow them in order.

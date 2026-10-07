@@ -1,0 +1,7 @@
+LEVEL 2: ONE LINE THAT MATTERS (7-10 minutes)
+The activity.log file contains many routine events and one handover entry.
+Use the exact marker from Level 1 to find the handover entry.
+Record its flag and the name of the file it points to.
+Useful command: grep "TEXT" activity.log
+Hint 1: The marker is in the hidden briefing from Level 1.
+Hint 2: Search for the marker, not for every line containing INFO.

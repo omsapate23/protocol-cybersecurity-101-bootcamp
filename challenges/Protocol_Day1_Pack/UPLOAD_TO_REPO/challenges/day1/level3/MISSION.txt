@@ -1,0 +1,7 @@
+LEVEL 3: THE SCRAMBLED DISPATCH (5-8 minutes)
+The file named in Level 2 contains a Base64-encoded message.
+Decode it to recover the final flag. No password is needed.
+Useful commands: cat, base64 --help
+Hint 1: Base64 is an encoding, not encryption.
+Hint 2: base64 -d FILENAME decodes a file.
+After solving: explain why Base64 cannot keep a password secret.
