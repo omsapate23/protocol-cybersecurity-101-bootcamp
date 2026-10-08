@@ -1,9 +1,8 @@
 # Add to Bootcamp101demo
 1. Upload only the contents of UPLOAD_TO_REPO to the root of the repository.
    Result: challenges/day1/START_HERE.txt, check.py, level1, level2, level3, link-desktop.sh.
-   IMPORTANT: .briefing is not committed (gitignored); only its base64 copy,
-   level1/.briefing.b64, lives in the repo so the flag is not readable by browsing
-   GitHub. link-desktop.sh decodes .briefing.b64 into .briefing on first run.
+   IMPORTANT: .briefing is a hidden file. Git commands below include it; some graphical
+   file pickers hide it. Confirm challenges/day1/level1/.briefing exists on GitHub.
 2. If copying locally or in a Codespace, commit with:
    git add challenges/day1
    git commit -m "Add three beginner Day 1 practice levels"
