@@ -1,0 +1,17 @@
+PROTOCOL DAY 3: OSINT AND FORENSICS
+
+Setup (run once): sh setup_day3.sh
+
+Level 1: tuscany_photo.jpg
+Where was this photo taken, and with which camera?
+Answer as: country, camera model
+
+Level 2: hidden_photo.jpg
+Something is hidden inside this photo. Find the flag.
+
+Level 3: secret_spectrogram.wav
+Turn the sound into a picture and read what it says.
+
+Flags look like PROTOCOL{...}
+
+Photo credits: github.com/ianare/exif-samples (CC BY-SA 4.0)
