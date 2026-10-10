@@ -37,4 +37,4 @@ At last run:
 websockify --web=/usr/share/novnc 0.0.0.0:6080 127.0.0.1:5901
 ```
 
-OPEN TERMINAL AND USE IT
+OPEN TERMINAL AND USE IT.
